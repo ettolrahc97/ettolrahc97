@@ -32,10 +32,24 @@ A passionate and curious data analyst with a love for turning numbers into stori
 
 
 ## 📈 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ettolrahc97&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ettolrahc97&show_icons=true&theme=merko" />
+  <img height=200 align="center" src="https://nirzak-streak-stats.vercel.app/?user=ettolrahc97&theme=merko&hide_border=false" />
+</a>
 
+## 🎓 Professional Development
+### Education
+- 📜 B.S in Information Technology - Lyceum Northwestern University
+### Recent Bootcamps
+<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" height="50"/><br> 
+- Data Analyst in Python, Tableau, SQL & ChatGPT Projects - March 27, 2025<br>
+- The Data Science Course: Complete Data Science Bootcamp 2025- current
 
-
+## 📱 Let's Connect
+<p align="center">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badg" height="60"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="60"/>
+</p>
 
 <!--
 **ettolrahc97/ettolrahc97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
