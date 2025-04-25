@@ -5,7 +5,7 @@
 </div>
 
 ## 🚀 About Me
-A passionate and curious data analyst with a love for turning numbers into stories. Armed with Python, pandas, matplotlib, seaborn, SQL, Excel, and Tableau, I explore data like it’s a treasure map—always looking for insights that can spark real impact.<br>
+A passionate and curious data analyst with a love for turning numbers into stories. I explore data like it’s a treasure map—always looking for insights that can spark real impact.<br>
 ### Let’s make data magic together! ✨🚀
 - 👩‍💻 I’m currently honing my skills through hands-on projects and constantly learning new things along the way.
 - 🔭 I’m on the lookout for exciting opportunities where I can dive into real-world problems, grow my experience, and contribute to meaningful solutions.
