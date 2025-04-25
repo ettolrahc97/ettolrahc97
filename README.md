@@ -1,4 +1,5 @@
 <h1 align="center">henlo, I'm Charlene Arboleda 👋</h1>
+<h4 align="center">from the Philippines! 🇵🇭</h4>
 
 ## Data Detective in the Making 🕵️‍♀️📊
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cal+Sans&pause=1000&color=7CAC31&center=true&width=435&lines=Data+Analyst;Data+Scientist;Machine+Learning" alt="Typing SVG" /></a>
