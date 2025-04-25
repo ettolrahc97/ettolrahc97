@@ -1,7 +1,8 @@
 <h1 align="center">henlo, I'm Charlene Arboleda 👋</h1>
 
 ## Data Detective in the Making 🕵️‍♀️📊
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cal+Sans&pause=1000&color=7CAC31&center=true&width=435&lines=Data+Analyst;Data+Scientist;Machine+Learning" alt="Typing SVG" /></a>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cal+Sans&pause=1000&color=7CAC31&center=true&width=435&lines=Data+Analyst;Data+Scientist;Machine+Learning" alt="Typing SVG" /></a>
+</div>
 
 ## 🚀 About Me
 A passionate and curious data analyst with a love for turning numbers into stories. Armed with Python, pandas, matplotlib, seaborn, SQL, Excel, and Tableau, I explore data like it’s a treasure map—always looking for insights that can spark real impact.<br>
